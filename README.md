@@ -14,5 +14,9 @@ Up to this case, the LBM that will be developed is used for fluid simulation. Re
 
 
 Bryan / 13619042
+
+
 Aerospace Engineering
+
+
 Institut Teknologi Bandung
